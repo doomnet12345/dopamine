@@ -12,7 +12,7 @@ local ESP = {
     AttachShift = 1,
     TeamMates = true,
     Players = true,
-    Distance = true
+    Distance = true,
     
     Objects = setmetatable({}, {__mode="kv"}),
     Overrides = {}
